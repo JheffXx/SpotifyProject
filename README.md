@@ -9,10 +9,4 @@ const clientId = '858a980b4d28473cbcd12475408da11d';
 const redirectUri = 'com.spotify://spotify-auth-callback';
 
 El redirectUri debe ser el mismo en la cuenta de Spotify Developers para que la aplicación pueda autenticar mediante spotify
-Para la presentación final del proyecto del curso 'Desarrollo De Aplicaciones Móviles' en caso el docente lo requiera; puede ingresar con las credenciales de los integrantes del grupo mediante Facebook
-Credenciales para ingresar con el ClientID de //Jherson:
-  e-mail: jerson.yea@hotmail.com
-  Contraseña: Jherson@220304
-Credenciales para ingresar con el ClientID de //DiegoQ:
-  e-mail: alessandrodirgo919@gmail.com
-  Contraseña: Dieguin2309
+
